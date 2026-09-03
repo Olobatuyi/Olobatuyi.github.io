@@ -16,9 +16,9 @@ title-block-banner: false
 
 ::: {.g-col-12 .g-col-md-10}
 
-[Fall 2024](https://www.google.com), &nbsp; [Fall 2023](https://www.google.com)
+[Fall 2026](https://www.google.com), &nbsp; [Fall 2023](https://www.google.com)
 
-Class 1 introduction.
+Class 1 STAT 2780A: Statistical introduction.
 
 :::
 
