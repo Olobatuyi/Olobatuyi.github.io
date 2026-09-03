@@ -6,9 +6,9 @@ title-block-banner: false
 
 <center>
 
-**Quarto Academic**
+**Kehinde Olobatuyi**
 
-School
+School: University of Lethbridge
 
 College
 
