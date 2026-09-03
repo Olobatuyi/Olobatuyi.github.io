@@ -3,7 +3,7 @@ title: "Bio item"
 description: "About Bio item."
 author: "Bio"
 date: "2026-09-03"
-categories: [Bio, presentation]
+categories: [bio, presentation]
 image: "/files/images/placeholder2.JPG"
 #css: /custom.css
 #draft: true
