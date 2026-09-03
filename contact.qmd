@@ -8,17 +8,17 @@ title-block-banner: false
 
 **Kehinde Olobatuyi**
 
-University of Lethbridge
+University of Lethbridge,
 Faculty of Arts and Sciences
 
-Address: 4401 University Drive
+**Address**: 4401 University Drive
 Lethbridge, Alberta
 T1K 3M4
 Canada
 
-Phone: (403) 329-2086
+**Phone**: (403) 329-2086
 
-E-mail: kehinde.olobatuyi@uleth.ca
+**E-mail**: kehinde.olobatuyi@uleth.ca
 
 
 </center>
