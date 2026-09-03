@@ -1,7 +1,7 @@
 ---
 title: "Kehinde Olobatuyi, PhD"
 description-meta: "Quarto Academic Website Template adapted by Dr. Kehinde Olobatuyi"
-image: "files/images/Kehinde_Olobatuyi.JPG"
+image: "files/images/Kehinde_Olobatuyi.jpg"
 page-navigation: false
 toc: false
 #sidebar: false
@@ -67,13 +67,13 @@ listing:   # Comment the listing section and delete corresponding lines in the i
 
 :::{#hero-heading}
 
-I'm a [Quarto Academeic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Kehinde Olobatuyi](http://drganghe.github.io).
+I'm a [Quarto Academeic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Kehinde Olobatuyi](http://Olobatuyi.github.io).
 
 I'm a template that you can fork to build your own website with easy adaptation and deployment.
 
 I can automatically generate a neat publication list from an Excel file and enabling categories and filters.
 
-Check [Quarto Academic Website Examples and Tips](https://drganghe.github.io/quarto-academic-site-examples.html) and [README.md](https://github.com/drganghe/quarto-academic-website-template/blob/main/README.md) for more detailed instructions.
+Check [Quarto Academic Website Examples and Tips](https://Olobatuyi.github.io/quarto-academic-site-examples.html) and [README.md](https://github.com/drganghe/quarto-academic-website-template/blob/main/README.md) for more detailed instructions.
 
 ## Experience
 
