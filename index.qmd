@@ -34,12 +34,12 @@ about:
     - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed, you also need to install the fontawesome extension
       href: https://orcid.org/my-orcid?orcid=0000-0002-4635-7895
       target: _blank
-    - text: "{{< ai clarivate >}} Web of Science"
-      href: https://www.webofscience.com  
-      target: _blank
-    - text: "{{< ai scopus >}} Scopus"
-      href: https://www.scopus.com
-      target: _blank
+#    - text: "{{< ai clarivate >}} Web of Science"
+#      href: https://www.webofscience.com  
+#      target: _blank
+#    - text: "{{< ai scopus >}} Scopus"
+#      href: https://www.scopus.com
+#      target: _blank
     - text: "{{< ai google-scholar >}} Google Scholar"
       href: https://scholar.google.com/citations?user=LAV8nJUAAAAJ&hl=en&authuser=2
       target: _blank
