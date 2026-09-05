@@ -36,16 +36,12 @@ Class 2 introduction.
 
 ::: {.g-col-12 .g-col-md-10}
 
-[Fall 2026](https://www.ulethbridge.ca/sites/ross/calendar/undergraduate/topic.htm#t=web%2FCourse_Catalogue%2FStatistics(STAT).htm) #, &nbsp; [Fall 2023](https://www.google.com)
+[Fall 2026](https://www.ulethbridge.ca/sites/ross/calendar/undergraduate/topic.htm#t=web%2FCourse_Catalogue%2FStatistics(STAT).htm)
 
 - Current Class: Statistical Inference - 31679 - STAT 2780 - A
-
 - Credit hours: 3.00
-
 - Contact hours per week: 3-0-1
-
 - Course description: Hypothesis testing. Comparison of variances. Chi-square distribution. Contingency tables. Elementary design of experiments. Random sampling. Analysis of variance. Regression and correlation. Examples to illustrate the theory are drawn from a wide variety of fields.
-
 - Prerequisite(s):​Statistics 1770
 
 :::
