@@ -48,12 +48,6 @@ Class 2 introduction.
 
 ## Past Teaching
 
-::: {.grid}
-
-::: {.g-col-12 .g-col-md-2}
-
-:::
-
 ::: {.g-col-12 .g-col-md-10}
 
 [Spring 2025](https://www.google.com), &nbsp; [Spring 2024](https://www.google.com)
