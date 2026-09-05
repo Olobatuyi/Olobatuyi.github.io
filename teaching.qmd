@@ -16,7 +16,7 @@ title-block-banner: false
 
 ::: {.g-col-12 .g-col-md-10}
 
-[Spring 2025](https://www.google.com), &nbsp; [Fall 2023](https://www.google.com)
+[Fall 2028](https://www.google.com)
 
 Class 2 introduction.
 
@@ -68,4 +68,22 @@ Class 3 introduction.
 
 :::
 
+::: {.g-col-12 .g-col-md-10}
 
+[Fall 2023](https://www.google.com)
+
+Class 3 introduction. 
+
+:::
+
+:::
+
+::: {.g-col-12 .g-col-md-10}
+
+[Fall 2022](https://www.google.com)
+
+Class 3 introduction. 
+
+:::
+
+:::
