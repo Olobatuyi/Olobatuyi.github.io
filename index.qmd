@@ -67,13 +67,23 @@ listing:   # Comment the listing section and delete corresponding lines in the i
 
 :::{#hero-heading}
 
-I'm a [Quarto Academeic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Kehinde Olobatuyi](http://Olobatuyi.github.io).
+I am a Computational Statistician specializing in Bayesian statistics, machine learning, and public health data science. My work focuses on developing advanced statistical and computational methods, such as hybrid MCMC and high-dimensional optimization, to solve complex, real-world problems in infectious disease modelling and health analytics.
 
-I'm a template that you can fork to build your own website with easy adaptation and deployment.
+With a strong foundation in both theory and application, I am particularly interested in bridging methodological innovation with impactful public health outcomes. 
 
-I can automatically generate a neat publication list from an Excel file and enabling categories and filters.
+My research has addressed critical challenges such as COVID-19 under-reporting, contributing to evidence-based decision-making and policy. In addition to my research, I am deeply committed to teaching and mentorship. I support students and trainees in building strong analytical skills, emphasizing reproducible research, hands-on data analysis, and the integration of statistical theory with practical applications in Python and R.
 
-Check [Quarto Academic Website Examples and Tips](https://drganghe.github.io/quarto-academic-site-examples.html) and [README.md](https://github.com/drganghe/quarto-academic-website-template/blob/main/README.md) for more detailed instructions.
+I actively collaborate across disciplines and institutions, and I am passionate about developing scalable, data-driven solutions that advance healthcare systems.
+
+My long-term goal is to contribute to a research-intensive academic environment while continuing to drive innovation at the intersection of statistics, machine learning, and public health.
+
+I'm a [Campus Directory](https://www.ulethbridge.ca/directory/person/kehinde.olobatuyi) and more detail about me can be found here [Dr. Kehinde Olobatuyi](http://Olobatuyi.github.io).
+
+## Past and Current Grant
+
+CIHR Research Excellence, Diversity, and Independence Phase 2: 2026--2029
+CIHR Research Excellence, Diversity, and Independence Phase 1: 2023--2026
+University of Victoria, Aspiration20230: 2022--2023
 
 ## Experience
 
@@ -83,9 +93,10 @@ Check [Quarto Academic Website Examples and Tips](https://drganghe.github.io/qua
 
 ## Education
 
-- PhD, Univerisity
-- Master, Univerisity
-- Bachelor, Univerisity
+- Postdoc: 2022--2026, Univerisity of Victoria
+- PhD: 2017--2021, Univerisity of Milano-Bicocca
+- Master: 2014--2016, Federal Univerisity of Agriculture Abeokuta
+- Bachelor: 2008--2012, Federal Univerisity of Agriculture Abeokuta
 
 :::
 
