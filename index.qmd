@@ -47,16 +47,16 @@ about:
 #      href: https://www.researchgate.net
 #      target: _blank
 
-#listing:   # Comment the listing section and delete corresponding lines in the index.qmd file to remove the recent posts
-#  - id: recent-posts
-#    contents: 
-#      - posts
-#      - posts/post-links.yml
-#    exclude:
-#      title: ""
-#    type: grid
-#    max-items: 3
-#    image-height: 150px
+listing:   # Comment the listing section and delete corresponding lines in the index.qmd file to remove the recent posts
+  - id: recent-posts
+    contents: 
+      - posts
+      - posts/post-links.yml
+    exclude:
+      title: ""
+    type: grid
+    max-items: 3
+    image-height: 150px
     page-size: 3 #set same as max-times to remove the page number setting
     fields: [image, date, title, subtitle]
     max-description-length: 75
@@ -108,4 +108,4 @@ Check out the latest &nbsp;[Papers](posts.qmd#category=paper)&nbsp;, &nbsp;[News
 :::{#recent-posts}
 :::
 
-#<p align="right">[All Posts »](/posts.qmd)</p>
+<p align="right">[All Posts »](/posts.qmd)</p>
