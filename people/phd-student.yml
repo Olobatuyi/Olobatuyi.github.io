@@ -1,9 +1,9 @@
     - path: https://olobatuyi.github.io/quarto-academic-website-template
       image: "/files/profiles/profile1.JPG"
-      title: "PhD Student"
+      title: "Aminur Rashid"
       lastname: "A"
 #      author: 
-      subtitle: "University of Victoria"
+      subtitle: "PhD Student at UVic"
 #      date: "2024-03-12"
       categories: [PhD Student] 
       started: "2026"
