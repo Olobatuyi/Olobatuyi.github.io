@@ -1,9 +1,9 @@
     - path: https://drganghe.github.io/quarto-academic-website-template
       image: "/files/profiles/profile6.JPG"
-      title: "Alumni C"
+      title: "Simon Johns"
       lastname: "C"
 #      author: 
-      subtitle: "Undergraduate Alumni"
+      subtitle: "Past Undergraduate Student"
 #      date: "2024-03-12"
       categories: [Undergraduate Student] 
       started: "2023-01"
