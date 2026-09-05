@@ -10,8 +10,6 @@ title-block-banner: false
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder2.JPG)
-
 :::
 
 ::: {.g-col-12 .g-col-md-10}
@@ -30,7 +28,6 @@ Class 2 introduction.
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder1.JPG)
 
 :::
 
@@ -54,7 +51,6 @@ Class 2 introduction.
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder3.JPG)
 
 :::
 
@@ -66,8 +62,6 @@ Class 3 introduction.
 
 :::
 
-:::
-
 ::: {.g-col-12 .g-col-md-10}
 
 [Fall 2023](https://www.google.com)
@@ -76,14 +70,10 @@ Class 3 introduction.
 
 :::
 
-:::
-
 ::: {.g-col-12 .g-col-md-10}
 
 [Fall 2022](https://www.google.com)
 
 Class 3 introduction. 
-
-:::
 
 :::
