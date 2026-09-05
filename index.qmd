@@ -18,21 +18,21 @@ about:
       target: _blank
     - icon: globe
       text: Uprofile
-      href: https://baruch.cuny.edu
+      href: https://www.ulethbridge.ca/directory/person/kehinde.olobatuyi
       target: _blank
     - icon: envelope
       text: E-mail
-      href: mailto:email@gmail.com    
+      href: mailto:kehinde.olobatuyi@uleth.ca    
     - icon: linkedin
       text: LinkedIn
       href: https://linkedin.com
       target: _blank
-    - icon: youtube
-      text: YouTube
-      href: https://www.youtube.com     
-      target: _blank 
+#    - icon: youtube
+#      text: YouTube
+#      href: https://www.youtube.com     
+#      target: _blank 
     - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed, you also need to install the fontawesome extension
-      href: https://orcid.org
+      href: https://orcid.org/my-orcid?orcid=0000-0002-4635-7895
       target: _blank
     - text: "{{< ai clarivate >}} Web of Science"
       href: https://www.webofscience.com  
@@ -41,7 +41,7 @@ about:
       href: https://www.scopus.com
       target: _blank
     - text: "{{< ai google-scholar >}} Google Scholar"
-      href: https://scholar.google.com
+      href: https://scholar.google.com/citations?user=LAV8nJUAAAAJ&hl=en&authuser=2
       target: _blank
 #    - text: "{{< ai researchgate >}} Research Gate"
 #      href: https://www.researchgate.net
