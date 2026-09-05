@@ -5,12 +5,7 @@ title-block-banner: false
 ---
 
 
-## Upcoming Teaching
-
-::: {.grid}
-
-::: {.g-col-12 .g-col-md-2}
-:::
+## Upcoming Teaching at uLethbridge
 
 ::: {.g-col-12 .g-col-md-10}
 
@@ -23,13 +18,7 @@ Class 2 introduction.
 :::
 
 
-## Current Teaching
-
-::: {.grid}
-
-::: {.g-col-12 .g-col-md-2}
-
-:::
+## Current Teaching at uLethbridge
 
 ::: {.g-col-12 .g-col-md-10}
 
@@ -46,11 +35,11 @@ Class 2 introduction.
 :::
 
 
-## Past Teaching
+## Past Teaching at UVic
 
 ::: {.g-col-12 .g-col-md-10}
 
-[Spring 2025](https://www.google.com), &nbsp; [Spring 2024](https://www.google.com)
+[Spring 2025](https://www.google.com)
 
 Class 3 introduction. 
 
