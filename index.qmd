@@ -77,7 +77,7 @@ I actively collaborate across disciplines and institutions, and I am passionate 
 
 My long-term goal is to contribute to a research-intensive academic environment while continuing to drive innovation at the intersection of statistics, machine learning, and public health.
 
-I'm a [Campus Directory](https://www.ulethbridge.ca/directory/person/kehinde.olobatuyi) and more detail about me can be found here [Dr. Kehinde Olobatuyi](http://Olobatuyi.github.io).
+Here is my uLethbridge profile [Campus Directory](https://www.ulethbridge.ca/directory/person/kehinde.olobatuyi) and more details about me can be found here [Dr. Kehinde Olobatuyi](http://Olobatuyi.github.io).
 
 ## Past and Current Grant
 
