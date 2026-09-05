@@ -63,7 +63,7 @@ format:
 :::
 
 
-## Alumni
+## Past Students
 
 :::{#lab-alumni}
 :::
