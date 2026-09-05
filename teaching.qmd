@@ -53,7 +53,7 @@ Class 2 introduction.
 :::
 
 
-## Class 3
+## Past Teaching
 
 ::: {.grid}
 
