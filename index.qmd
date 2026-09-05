@@ -14,7 +14,7 @@ about:
   links:
     - icon: sun
       text: Lab
-      href: https://www.github.com
+      href: https://olobatuyi.github.io/people.html
       target: _blank
     - icon: globe
       text: Uprofile
