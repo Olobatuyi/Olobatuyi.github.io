@@ -5,27 +5,7 @@ title-block-banner: false
 ---
 
 
-## Class 1
-
-::: {.grid}
-
-::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder1.jpg)
-
-:::
-
-::: {.g-col-12 .g-col-md-10}
-
-[Fall 2026](https://www.google.com), &nbsp; [Fall 2023](https://www.google.com)
-
-Class 1 STAT 2780A: Statistical introduction.
-
-:::
-
-:::
-
-
-## Class 2
+## Upcoming Teaching
 
 ::: {.grid}
 
@@ -39,6 +19,34 @@ Class 1 STAT 2780A: Statistical introduction.
 [Spring 2025](https://www.google.com), &nbsp; [Fall 2023](https://www.google.com)
 
 Class 2 introduction.
+
+:::
+
+:::
+
+
+## Current Teaching
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2}
+![](files/images/placeholder1.JPG)
+
+:::
+
+::: {.g-col-12 .g-col-md-10}
+
+[Fall 2026](https://www.ulethbridge.ca/sites/ross/calendar/undergraduate/topic.htm#t=web%2FCourse_Catalogue%2FStatistics(STAT).htm) #, &nbsp; [Fall 2023](https://www.google.com)
+
+- Current Class: Statistical Inference - 31679 - STAT 2780 - A
+
+- Credit hours: 3.00
+
+- Contact hours per week: 3-0-1
+
+- Course description: Hypothesis testing. Comparison of variances. Chi-square distribution. Contingency tables. Elementary design of experiments. Random sampling. Analysis of variance. Regression and correlation. Examples to illustrate the theory are drawn from a wide variety of fields.
+
+- Prerequisite(s):​Statistics 1770
 
 :::
 
